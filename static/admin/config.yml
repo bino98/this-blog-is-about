@@ -17,12 +17,12 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Descreption", name: "description", widget: "text", required: false}
-      - {label: "LinkTitle", name: "linktitle", widget: "string"}
+      - {label: "LinkTitle", name: "linktitle", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime", require: false}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Width", name: "width", widget: "number", required: false}
       - {label: "Category", name: "categories", widget: "list", required: false}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "AuthorAvatar", name: "authorAvatar", widget: "image"}
+      - {label: "AuthorAvatar", name: "authorAvatar", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
