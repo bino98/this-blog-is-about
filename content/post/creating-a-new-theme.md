@@ -1,15 +1,10 @@
 ---
-author: "Michael Henderson"
-date: 2014-09-28
-linktitle: Creating a New Theme
-nomenu:
-  main:
-    parent: tutorials
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
 title: Creating a New Theme
-weight: 10
+description: hgoe
+linktitle: link titleeeeeeeeeeee
+date: 2014-09-28T00:00:00.000Z
 image: img/welcome.jpg
+author: Michael Henderson
 authorAvatar: hugo-logo.png
 ---
 
