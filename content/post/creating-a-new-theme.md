@@ -1,7 +1,7 @@
 ---
 title: Creating a New Theme
-description: hogehoge
-linktitle: Creating a New Theme
+description: hgoe
+linktitle: link titleeeeeeeeeeee
 date: 2014-09-28T00:00:00.000Z
 image: img/welcome.jpg
 author: Michael Henderson
